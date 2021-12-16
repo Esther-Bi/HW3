@@ -50,5 +50,4 @@ int main(){
     azby(word , text);
     printf("\nAnagram Sequences: ");
     minimal(word , text);
-    printf("\n");
 }
